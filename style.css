@@ -345,6 +345,9 @@ footer {
     gap: 16px;
 }
 
+hr {
+    border: 1px solid #E5E7EB;
+}
 
 .copy {
     color: #FAFAFA;
