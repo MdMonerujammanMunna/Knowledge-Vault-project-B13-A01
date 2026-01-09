@@ -221,3 +221,46 @@ body {
 }
 
 /* Cards section design code end */
+
+/* second-brain section design code start */
+.second-brain {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.brain-green {
+    color: #469165;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.brain-text h2 {
+    font-size: 48px;
+    color: #001931;
+    margin-bottom: 16px;
+    line-height: 58px;
+}
+
+.brain-app {
+    width: 458px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.check {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.check span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* second-brain section design code end */
