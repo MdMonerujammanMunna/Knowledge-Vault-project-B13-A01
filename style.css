@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+/* sheare code start here */
+.btn {
+    outline: none;
+    border: none;
+    background-color: #469165;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12.5px 16px;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    border: 2px solid #469165;
+    color: #469165;
+    background: none;
+}
+
+.nav-bar-container {
+    margin: 0 120px;
+}
+
+/* main code start here */
+
+/* nav-bar design  code start */
+
+
+.logo {
+    cursor: pointer;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+
+.nav-link ul li:hover {
+    color: #469165;
+}
+
+.nav-link ul li {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.nav-link ul {
+    display: flex;
+    gap: 32px;
+}
+
+/* nav-bar design  code end */
