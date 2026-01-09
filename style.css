@@ -27,7 +27,11 @@ body {
     background: none;
 }
 
-.nav-bar-container {
+.nav-bar-container,
+.card-container,
+.second-brain-container,
+.bonus-container,
+.footer-container {
     margin: 0 120px;
 }
 
